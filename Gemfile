@@ -22,6 +22,10 @@ gem 'kaminari'
 gem 'simple_form'
 # Use devise for user authentication
 gem 'devise'
+# Use Geocoder for location conversions
+gem 'geocoder'
+# Use figaro for local ENV variables
+gem 'figaro'
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
